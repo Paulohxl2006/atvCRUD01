@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1726256876236,
+    "nome": "Husky Siberiano",
+    "idade": "12-15 anos",
+    "porte": "Médio a Grande",
+    "descricao": "O Husky Siberiano é uma raça conhecida por sua pelagem espessa e espantosa, ideal para climas frios. Eles têm uma aparência similar a lobos e são famosos por sua resistência e energia. Originalmente criados para puxar trenós, são cães altamente ativos e inteligentes que precisam de muito exercício e estímulo mental. São amigáveis, mas podem ser independentes e teimosos.",
+    "valor": 4000,
+    "img": "/uploads/1726256876235.avif",
+    "like": 100
+  },
+  {
+    "id": 1726258807682,
+    "nome": "Akita Inu",
+    "idade": "10-15 anos",
+    "porte": "Grande",
+    "descricao": "O Akita Inu é uma raça imponente e poderosa, com uma pelagem densa que pode lembrar a do Husky Siberiano. Originário do Japão, o Akita é conhecido por sua lealdade e coragem. Eles são excelentes cães de guarda e também se adaptam bem a ambientes familiares, embora possam ser mais reservados com estranhos.",
+    "valor": 7000,
+    "img": "/uploads/1726592634814.jpg",
+    "like": 1
+  },
+  {
+    "id": 1726256876237,
+    "nome": "Husky Siberiano Preto",
+    "idade": "12-15 anos",
+    "porte": "Médio a Grande",
+    "descricao": "O Husky Siberiano Preto é uma variação do Husky Siberiano com uma pelagem escura e impressionante. Como seus parentes, são cães muito ativos e resistentes, ideais para climas frios. Eles são conhecidos por sua energia infinita e necessidade de estímulo físico e mental.",
+    "valor": 4200,
+    "img": "/uploads/1726592818142.jpg",
+    "like": 50
+  },
+  {
+    "id": 1726256876238,
+    "nome": "Dálmata",
+    "idade": "10-13 anos",
+    "porte": "Médio",
+    "descricao": "O Dálmata é conhecido por sua pelagem distintiva com manchas pretas ou fígado sobre um fundo branco. São cães enérgicos e brincalhões, originalmente usados como cães de carroça e bombeiros. Eles precisam de bastante exercício e são muito sociais, adorando estar na companhia de pessoas.",
+    "valor": 3500,
+    "img": "/uploads/1726592860503.jpg",
+    "like": 80
+  },
+  {
+    "id": 1726256876239,
+    "nome": "Cocker Spaniel",
+    "idade": "12-15 anos",
+    "porte": "Médio",
+    "descricao": "O Cocker Spaniel é uma raça amigável e afetuosa, conhecida por suas longas orelhas e pelagem luxuosa. Eles são cães de companhia ideais e se adaptam bem a ambientes familiares. São bastante brincalhões e necessitam de cuidados regulares com o pelo.",
+    "valor": 3000,
+    "img": "/uploads/1726592869607.jpg",
+    "like": 90
+  },
+  {
+    "id": 1726256876240,
+    "nome": "Border Collie",
+    "idade": "12-15 anos",
+    "porte": "Médio",
+    "descricao": "O Border Collie é uma das raças mais inteligentes e ágeis, ideal para atividades de trabalho e esportes caninos. Eles têm uma pelagem espessa e são conhecidos por sua habilidade em pastoreio. São cães muito energéticos e exigem bastante exercício e estimulação mental.",
+    "valor": 5000,
+    "img": "/uploads/1726592916351.webp",
+    "like": 120
+  },
+  {
+    "id": 1726256876241,
+    "nome": "Bulldog Francês",
+    "idade": "10-12 anos",
+    "porte": "Pequeno",
+    "descricao": "O Bulldog Francês é um cão pequeno e robusto, conhecido por seu rosto achatado e orelhas eretas. Eles são muito afetuosos e se adaptam bem a ambientes urbanos. Apesar de seu tamanho, são bastante fortes e têm uma personalidade marcante.",
+    "valor": 6000,
+    "img": "/uploads/1726593094971.png",
+    "like": 70
+  },
+  {
+    "id": 1726256876242,
+    "nome": "São Bernardo",
+    "idade": "8-10 anos",
+    "porte": "Gigante",
+    "descricao": "O São Bernardo é um cão gigante, conhecido por sua lealdade e gentileza. Com uma pelagem espessa e uma personalidade amigável, são excelentes cães de família e se destacam pela sua habilidade em resgates em condições adversas. Necessitam de bastante espaço e cuidados com a saúde.",
+    "valor": 8000,
+    "img": "/uploads/1726593131275.webp",
+    "like": 60
+  },
+  {
+    "id": 1726256876243,
+    "nome": "Chihuahua",
+    "idade": "12-20 anos",
+    "porte": "Miniatura",
+    "descricao": "O Chihuahua é uma das menores raças de cães, com uma personalidade grande para combinar. São muito leais e afetuosos com seus donos, embora possam ser reservados com estranhos. São ideais para apartamentos e precisam de cuidados especiais devido ao seu tamanho diminuto.",
+    "valor": 2500,
+    "img": "/uploads/1726593146187.webp",
+    "like": 100
+  },
+  {
+    "id": 1726256876244,
+    "nome": "Rottweiler",
+    "idade": "8-10 anos",
+    "porte": "Grande",
+    "descricao": "O Rottweiler é um cão poderoso e confiante, conhecido por sua lealdade e habilidades como cão de guarda. Com uma pelagem preta e fogo e uma constituição robusta, eles são ótimos para proteção e também se adaptam bem a famílias quando socializados corretamente.",
+    "valor": 6500,
+    "img": "/uploads/1726593161847.webp",
+    "like": 110
+  }
+]
